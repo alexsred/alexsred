@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexsred
-- 🎨 I’m a Senior Product Designer
-- 🤖 I’m interested in Generative AI
+- 🎨 I’m a Lead Product Designer
+- 🤖 I’m working on an Agentic research tool
 - 🌱 I’m currently learning Python and React.js
 - 💞️ I’m looking to collaborate on Generative AI
 - 📫 How to reach me alex@sredojevic.co
